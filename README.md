@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="System Status banner" width="100%">
+<img src="assets/banner.svg" alt="SHANA PAKAYEK" width="100%">
 
 <br><br>
 
-<img src="assets/icon.svg" alt="System Status icon" width="112" height="112">
+<img src="assets/icon.svg" alt="Huutige puta shana" width="112" height="112">
 
-# System Status
+
 
 **Live battery, memory and CPU stats for your Android phone. No root, no internet, no ads.**
 
